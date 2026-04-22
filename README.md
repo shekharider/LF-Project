@@ -57,7 +57,8 @@ LF-project/
 ### 1️⃣ Clone the Repo
 
 ```bash
- tempor
+git clone https://github.com/shekharider/LF-project.git
+cd LF-project
 ```
 
 ### 2️⃣ Setup Backend 🔙
@@ -127,4 +128,4 @@ Got ideas? Found a bug? Contributions are welcome!
 
 ## 💡 Author
 
-Made with ❤️ by Shankar Upase(https://github.com/Harry9021)
+Made with ❤️ by Shankar Upase(https://github.com/shekharider)
